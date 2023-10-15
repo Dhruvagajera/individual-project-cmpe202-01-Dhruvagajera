@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Output>
+  <Card>
+    <CardNumber>5567894523129089</CardNumber>
+    <CardType>MasterCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>59012345678901234567890</CardNumber>
+    <CardType>Invalid: More than 19 digits</CardType>
+  </Card>
+  <Card>
+    <CardNumber>4123456789123</CardNumber>
+    <CardType>VisaCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>347856341908126</CardNumber>
+    <CardType>AmExCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>6011111100007756</CardNumber>
+    <CardType>DiscoverCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>3601112345678789</CardNumber>
+    <CardType>Invalid</CardType>
+  </Card>
+  <Card>
+    <CardNumber>5167894523129089</CardNumber>
+    <CardType>MasterCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>4123456789123999</CardNumber>
+    <CardType>VisaCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>377856341908126</CardNumber>
+    <CardType>AmExCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>5367894523129089</CardNumber>
+    <CardType>MasterCreditCard</CardType>
+  </Card>
+  <Card>
+    <CardNumber>6011*890HJrt6789</CardNumber>
+    <CardType>Invalid: Non Numeric characters</CardType>
+  </Card>
+  <Card>
+    <CardNumber/>
+    <CardType>Invalid card </CardType>
+  </Card>
+</Output>

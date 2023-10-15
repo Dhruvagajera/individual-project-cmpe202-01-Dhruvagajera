@@ -1,0 +1,1 @@
+java -cp ".\bin;.\lib\json-simple-1.1.1.jar;.\lib\opencsv-5.7.1.jar" .\src\main\java\Main.java .\src\main\Files\input_file-1.json .\src\main\Files\output_file-3.json

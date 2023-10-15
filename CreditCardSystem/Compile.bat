@@ -1,0 +1,1 @@
+javac -d .\bin -cp ".\lib\hamcrest-core-1.3.jar;.\lib\junit-4.13.2.jar;.\lib\json-simple-1.1.1.jar;.\lib\opencsv-5.7.1.jar" .\src\main\java\card\*.java .\src\main\java\parser\*.java .\src\main\java\validator\*.java .\src\main\java\*.java .\src\test\java\parser\*.java .\src\test\java\validator\*.java
